@@ -1,16 +1,19 @@
-## Hi there 👋
+## My Github Repositories
 
-<!--
-**andreicasimina/andreicasimina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📓 Guides
 
-Here are some ideas to get you started:
+These are guides that I made.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [How to Set Up WSL2](https://github.com/andreicasimina/wsl2-setup)
+
+### 🧑‍🎓 Student Projects
+
+These are the projects I worked on when I was a student.
+
+- [Insightful Notes](https://github.com/andreicasimina/Insightful-Notes)
+- [Count Pepper](https://github.com/andreicasimina/count-pepper)
+- [ARC Life BE](https://github.com/andreicasimina/arc-life-backend)
+- [Environment Ballon](https://github.com/andreicasimina/environment-balloon)
+- [Follower Tello Drone](https://github.com/andreicasimina/follower-tello-drone)
+- [My Diary](https://github.com/andreicasimina/my-diary)
+- [Suumo Hazard Risk](https://github.com/andreicasimina/suumo-hazard-risk)
