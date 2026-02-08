@@ -5,7 +5,7 @@
 These are guides that I made.
 
 - [How to Set Up WSL2](https://github.com/andreicasimina/wsl2-setup)
-- Python Version Management for WSL2(https://github.com/andreicasimina/python-management-for-wsl2)
+- [Python Version Management for WSL2](https://github.com/andreicasimina/python-management-for-wsl2)
 
 ### 🧑‍🎓 Student Projects
 
