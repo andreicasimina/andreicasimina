@@ -12,6 +12,6 @@ Focusing on scalable backend systems, mobile architecture, developer tooling, an
 
 ### 📈 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=andreicasimina&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=andreicasimina&langs_count=4&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=andreicasimina&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=andreicasimina&langs_count=4&theme=transparent)
 
 </div>
