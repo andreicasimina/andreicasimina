@@ -1,7 +1,17 @@
-## My Github Repositories
+<div align="center">
 
-### 🧑‍🎓 Student Projects
+# Hello, I'm Andrei Casimina 👋
 
-These are the projects I worked on when I was a student.
+**Solution Engineer at teamLab Inc.**
 
-- [Band Room Reservation App](https://github.com/andreicasimina/minken-app)
+Focusing on scalable backend systems, mobile architecture, developer tooling, and AI integration pipelines.
+
+[LinkedIn](https://www.linkedin.com/in/andrei-casimina/) • [Email](mailto:your-email@domain.com)
+
+---
+
+### 📈 GitHub Stats
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=andreicasimina&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=andreicasimina&langs_count=4&theme=dark_github)
+
+</div>
