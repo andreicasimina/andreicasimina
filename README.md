@@ -6,7 +6,7 @@
 
 Focusing on scalable backend systems, mobile architecture, developer tooling, and AI integration pipelines.
 
-[LinkedIn](https://www.linkedin.com/in/andrei-casimina/) • [Email](mailto:your-email@domain.com)
+[LinkedIn](https://www.linkedin.com/in/andrei-casimina/) • [Email](mailto:andreicasimina1208@gmail.com)
 
 ---
 
